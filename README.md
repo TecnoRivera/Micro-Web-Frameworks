@@ -73,11 +73,7 @@ Este proyecto guía a través del proceso de creación de una aplicación básic
   ```bash
   ruby app.rb
   ```
-
-## Integraciones
-
-Configura integraciones y servicios adicionales según sea necesario. Puedes encontrar más detalles en [GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html) para integrar la aplicación con herramientas de CI/CD.
-
+   
 ## Licencia
 
 Este proyecto está licenciado bajo la [Licencia MIT](https://opensource.org/licenses/MIT). Consulta el archivo `LICENSE` para más detalles.
